@@ -12,7 +12,7 @@ Below are links to several websites I have built "for building up the body of Ch
 
 A Twitter account sharing quotes from [John Newton](https://en.wikipedia.org/wiki/John_Newton). Quotes compiled by me and [Tony Reinke](http://tonyreinke.com/john-newton/).
 
-### [joseph-hopper.com](http://joseph-hopper.com)
+### [The Works of Joseph Hopper and Joseph Barron Hopper](http://joseph-hopper.com)
 
 A digital collection of writings left behind by my grandfather and great-grandfather, Presbyterian missionaries to Korea.
 
