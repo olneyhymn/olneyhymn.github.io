@@ -34,9 +34,15 @@ A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster S
 
 This runs on [Digital Ocean](https://www.digitalocean.com/). The code is available [here](https://github.com/olneyhymn/newton).
 
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/john__newton" data-widget-id="694178540674224128">Tweets by @john__newton</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 ### [@opc_history](https://twitter.com/opc_history)
 
 This runs on [AWS Lambda](https://aws.amazon.com/lambda). The code is available [here](https://github.com/olneyhymn/opc-history).
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/opc_history" data-widget-id="694178740767703041">Tweets by @opc_history</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 ### [The Works of Joseph Hopper and Joe B. Hopper](http://joseph-hopper.com)
 
