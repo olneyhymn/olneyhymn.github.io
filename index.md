@@ -22,6 +22,10 @@ A Twitter account to share [Today in OPC History](http://opc.org/today.html) fro
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/opc_history" data-widget-id="694178740767703041">Tweets by @opc_history</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
+### [@jg_machen](https://twitter.com/jg_machen)
+
+A Twitter account to share quotes from J. Gresham Machen.
+
 ### [The Works of Joseph Hopper and Joe B. Hopper](http://joseph-hopper.com)
 
 A digital collection of writings left behind by my grandfather and great-grandfather, Presbyterian missionaries to Korea.
@@ -39,6 +43,10 @@ A website to follow Dr. Joseph Pipa's [Calendar of Readings in the Westminster S
 ### [@john__newton](https://twitter.com/john__newton)
 
 This runs on [Digital Ocean](https://www.digitalocean.com/). The code is available [here](https://github.com/olneyhymn/newton).
+
+### [@jg_machen](https://twitter.com/jg_machen)
+
+This runs on [Digital Ocean](https://www.digitalocean.com/).
 
 ### [@opc_history](https://twitter.com/opc_history)
 
