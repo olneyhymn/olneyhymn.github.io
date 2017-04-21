@@ -12,22 +12,16 @@ Below are links to several websites I have built "for building up the body of Ch
 
 A Twitter account sharing quotes from [John Newton](https://en.wikipedia.org/wiki/John_Newton). Quotes compiled by me and [Tony Reinke](http://tonyreinke.com/john-newton/).
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/john__newton" data-widget-id="694178540674224128">Tweets by @john__newton</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 ### [@opc_history](https://twitter.com/opc_history)
 
-A Twitter account to share [Today in OPC History](http://opc.org/today.html) from [opc.org](http://www.opc.org).
+A Twitter account to share [Today in OPC History](http://opc.org/today.html) from [opc.org](http://www.opc.org). Also available on [Facebook](https://www.facebook.com/opchistory/).
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/opc_history" data-widget-id="694178740767703041">Tweets by @opc_history</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 ### [@jg_machen](https://twitter.com/jg_machen)
 
 A Twitter account to share quotes from J. Gresham Machen.
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/jg_machen" data-widget-id="721755171198537728">Tweets by @jg_machen</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 ### [The Works of Joseph Hopper and Joe B. Hopper](http://joseph-hopper.com)
 
