@@ -8,6 +8,11 @@ Below are links to several websites I have built "for building up the body of Ch
 
 ## Projects
 
+### [Waiting Tables podcast](http://waiting-tables.com)
+
+A biweekly look into the behind-the-scenes of the life and operation of a church. Waiting Tables exists to help ease logistical hurdles to free your church to focus on its mission.
+
+
 ### [@john__newton](https://twitter.com/john__newton)
 
 A Twitter account sharing quotes from [John Newton](https://en.wikipedia.org/wiki/John_Newton). Quotes compiled by me and [Tony Reinke](http://tonyreinke.com/john-newton/).
